@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1  align="center">
         || Gym Management System  ||
 </h1>
 A web-based application to streamline gym operations, providing a comprehensive platform for managing memberships, trainers, schedules, and payments.
